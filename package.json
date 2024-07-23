@@ -2,13 +2,13 @@
     "name": "the-web-is-for-everyone-interactive-functionality",
     "version": "1.0.0",
     "description": "Ontwerp en maak voor een opdrachtgever een interactieve toepassing die voor iedereen toegankelijk is.",
-    "main": "funda.js",
+    "main": "server.js",
     "type": "module",
     "directories": {
       "doc": "docs"
     },
     "scripts": {
-      "start": "node funda.js"
+      "start": "node server.js"
     },
     "repository": {
       "type": "git",
